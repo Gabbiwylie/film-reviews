@@ -1,0 +1,29 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+  div {
+    font-family: arial;
+    color: #ff0000;
+    font-size: 20px
+  }
+
+  .bd-example {
+    width: 250px;
+  }
+  #id{
+    align-items: center;
+  }
+
+  p {
+    color: #000000;
+  }
