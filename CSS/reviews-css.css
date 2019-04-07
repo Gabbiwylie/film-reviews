@@ -1,27 +1,71 @@
 body {
-  padding: 2rem;
+  padding: 1rem;
+  background-color: black;
 
 }
 
 h1 {
   text-align: center;
   text-transform: uppercase;
-  color: #16715F
+  color: white;
+  font-family: helvetica;
+  font-size: 40px;
+  background-color: black;
 }
 h2 {
     text-align: center;
-    color: #16715F
+    color: white;
+    font-family: helvetica;
+    font-size: 20px;
+    background-color: black;
 }
 div.movie-1 {
   text-align: center;
-  background-image: url(images/deadpool.jpg);
-  background-color: #990000;
+  background-image:linear-gradient(#990000, #000000);
   color: white;
 }
 p {
   font-size: 12px;
-  font-family: helvetica;
+  font-family: sans-serif;
 }
 p:nth-child(3) {
+  font-style: italic;
+}
+p:nth-child(5) {
+  font-style: italic;
+}
+p:nth-child(7) {
+  font-style: italic;
+}
+
+div.movie-2 {
+  text-align: center;
+  background-image:linear-gradient(#000000, #006994);
+  color: white;
+}
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+p:nth-child(3) {
+  font-style: italic;
+}
+p:nth-child(5) {
+  font-style: italic;
+}
+
+div.movie-3 {
+  text-align: center;
+  background-image:linear-gradient(#990000, #000000);
+  color: white;
+}
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+p:nth-child(3) {
+  font-style: italic;
+}
+p:nth-child(5) {
   font-style: italic;
 }
