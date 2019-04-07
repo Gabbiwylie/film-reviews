@@ -21,7 +21,7 @@ h2 {
 }
 div.movie-1 {
   text-align: center;
-  background-image:linear-gradient(#990000, #000000);
+  background-image:radial-gradient(#990000, #000000);
   color: white;
 }
 p {
@@ -40,7 +40,7 @@ p:nth-child(7) {
 
 div.movie-2 {
   text-align: center;
-  background-image:linear-gradient(#000000, #006994);
+  background-image:radial-gradient(#006994, #000000);
   color: white;
 }
 p {
@@ -56,7 +56,7 @@ p:nth-child(5) {
 
 div.movie-3 {
   text-align: center;
-  background-image:linear-gradient(#990000, #000000);
+  background-image:radial-gradient(#D4AF37, #000000);
   color: white;
 }
 p {
