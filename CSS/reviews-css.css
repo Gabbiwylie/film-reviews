@@ -14,5 +14,14 @@ h2 {
 }
 div.movie-1 {
   text-align: center;
-  background-color: 
+  background-image: url(images/deadpool.jpg);
+  background-color: #990000;
+  color: white;
+}
+p {
+  font-size: 12px;
+  font-family: helvetica;
+}
+p:nth-child(3) {
+  font-style: italic;
 }
