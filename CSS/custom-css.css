@@ -24,16 +24,14 @@ body {
   .bd-example {
     width: 250px;
   }
-  #id{
-    align-items: center;
 
-  }
 
   p {
+    font-family: arial;
     color: #000000;
   }
 
 h5 {
   color: #ff0000;
-  font-family: calibri;
+  font-family: arial;
 }
