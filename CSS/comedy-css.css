@@ -1,47 +1,50 @@
 body {
   padding: 1rem;
-  background-color: black;
+  background-image: radial-gradient(#FFFBE5, #FFFFFF);
 
 }
 
 h1 {
   text-align: center;
   text-transform: uppercase;
-  color: white;
-  font-family: helvetica;
-  font-size: 40px;
-  background-color: black;
+  color: #696969;
+  font-family: American Typewriter, serif;
+  font-size: 60px;
 }
 h2 {
     text-align: center;
-    color: white;
-    font-family: helvetica;
-    font-size: 20px;
-    background-color: black;
+    color: #696969;
+    font-family: American Typewriter, serif;
+    font-size: 25px;
+}
+
+h3 {
+  font-family: Bradley Hand, cursive;
+  font-size: 40px;
 }
 div.movie-1 {
   text-align: center;
-  background-image:radial-gradient(#990000, #000000);
-  color: white;
+  color: #696969;
+  background-image: radial-gradient(#FFF6C7, #FFFBE5);
 }
 p {
   font-size: 12px;
   font-family: sans-serif;
 }
-p:nth-child(3) {
+p:nth-child(4) {
   font-style: italic;
 }
-p:nth-child(5) {
+p:nth-child(6) {
   font-style: italic;
 }
-p:nth-child(7) {
+p:nth-child(8) {
   font-style: italic;
 }
 
 div.movie-2 {
   text-align: center;
-  background-image:radial-gradient(#006994, #000000);
-  color: white;
+  color: #696969;
+  background-image: radial-gradient(#FFF1A9, #FFFBE5);
 }
 p {
   font-size: 12px;
@@ -60,8 +63,8 @@ p:nth-child(7) {
 
 div.movie-3 {
   text-align: center;
-  background-image:radial-gradient(#D4AF37, #000000);
-  color: white;
+  color: #696969;
+  background-image: radial-gradient(#FFEC8B, #FFFBE5);
 }
 p {
   font-size: 12px;
