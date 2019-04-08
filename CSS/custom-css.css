@@ -45,3 +45,13 @@ h5 {
     height: auto;
   }
 }
+
+a {
+  color: #ff0000;
+  text-align: center;
+}
+
+title {
+  font-family: American Typewriter, serif;
+  color: #ff0000
+}
